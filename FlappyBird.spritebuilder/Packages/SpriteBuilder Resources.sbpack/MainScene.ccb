@@ -505,8 +505,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>158.99996948242188</real>
-							<real>278</real>
+							<real>0.0</real>
+							<real>0.0</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
